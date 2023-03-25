@@ -1,0 +1,11 @@
+{
+  "name": "night-canteen",
+  "version": "1.0.0",
+  "description": "Food ordering website for users who are at IIT DH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajan Gupta && Maniram",
+  "license": "ISC"
+}
