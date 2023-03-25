@@ -1,0 +1,11 @@
+{
+  "name": "night_canteen",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Ctform for IITDH students, staff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajan Gutpa & ManiRam Thota",
+  "license": "ISC"
+}
