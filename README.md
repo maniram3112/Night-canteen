@@ -27,3 +27,9 @@ code and number of the vendor and an OTP will be
 generated to initiate the process.
 6. This OTP will be used to collect the order.
 
+--------------------------------------------------------------------
+Features of our website
+1. Users can browse all the Categories and Food Items. 
+2. They also can order easily from the website.
+3. Admin can Manage Admin, Caegories and Food Items
+4. Admin can also Manage and Track Food Order and Delivery
