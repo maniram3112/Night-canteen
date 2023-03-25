@@ -1,3 +1,5 @@
+<!-- <?php include('../config/constants.php'); ?> -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +9,7 @@
     <title>Food Order Website - Home page</title>
     <link rel = "stylesheet" href = "../css/admin.css">
 </head>
+
 <body>
     <!-- Menu Section starts -->
     <div class = "menu text-center">
@@ -19,7 +22,5 @@
                 <li><a href= "manage-order.php">Order</a></li>
             </ul>
         </div>
-    </div>
-
-    
+    </div>  
     <!-- Menu Section ends -->
